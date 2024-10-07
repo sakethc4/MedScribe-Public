@@ -1,6 +1,6 @@
 Public Repo for my team's George Washington University (George Hacks Project).
 Built by Saketh Chintalapati, Hemang Vasu, Rachit Raval, and Vishal Kotha. 
-George Hacks 2025 1st Prize winner and Best Overall Hack. 
+George Hacks 2024 1st Prize winner and Best Overall Hack. 
 Problem Statement: Sarah Poloma's topic Clinical trials that are not representative of patient populations are problematic for public health. Diverse populations need to be recruited and retained in research studies so that the resulting approved treatments are not harmful or less effective to patient populations that vary across demographic categories including ethnicity, sex and age. The barriers to recruit and retain participants to clinical research trials sometimes includes language barriers. Potential participants that fit the “inclusion criteria” of a study may not speak English or may speak it as a second language.
 
 We solved this problem by building MedScribe a full stack application that allows users to upload consent forms in any language.
